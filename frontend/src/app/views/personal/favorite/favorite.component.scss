@@ -1,0 +1,33 @@
+@import "../../../../assets/styles/variables";
+@import "../../../../assets/styles/mixins";
+
+.favorite {
+  padding-top: 50px;
+  padding-bottom: 110px;
+
+  .container {
+
+    .favorite-title {
+      @include headLora36;
+      color: $green-text-color;
+      margin-bottom: 35px;
+    }
+
+    .favorite-empty {
+      margin-top: 20px;
+      margin-bottom: 100px;
+
+      div {
+        font-size: 16px;
+      }
+      .button {
+        width: 255px;
+        margin-top: 10px;
+      }
+    }
+
+    .favorite-products {
+
+    }
+  }
+}
