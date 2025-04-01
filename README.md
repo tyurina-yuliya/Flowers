@@ -1,10 +1,10 @@
 # Used technologies:
 - HTML5,
 - SCSS,
-- JavaScript ES6,
+- Typescript,
 - Bootstrap,
 - Webpack,
 - Mongodb,
-- 3D Studio
+- Studio 3T
 - Angular
 - GitHub Pages
